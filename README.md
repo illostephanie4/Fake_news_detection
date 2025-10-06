@@ -1,5 +1,15 @@
 # 📰 Fake News Detection with Machine Learning
 
+### 🛠️ Built With
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logoColor=white)
+
+---
+
 ## 📌 Project Overview
 This project builds a **machine learning model** to classify articles as **Fake**
 or **Real.**
