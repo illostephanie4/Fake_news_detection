@@ -1,4 +1,4 @@
-# Fake News Detection with Machine Learning
+# 📊 Fake News Detection with Machine Learning
 
 ## Project Overview
 This project builds a **machine learning model** to classify articles as **Fake**
