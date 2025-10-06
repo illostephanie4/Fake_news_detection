@@ -1,6 +1,6 @@
-# 📊 Fake News Detection with Machine Learning
+# 📰 Fake News Detection with Machine Learning
 
-## Project Overview
+## 📌 Project Overview
 This project builds a **machine learning model** to classify articles as **Fake**
 or **Real.**
 It combines **exploratory data analysis (EDA)**, **text preprocessing**, and
@@ -8,17 +8,17 @@ It combines **exploratory data analysis (EDA)**, **text preprocessing**, and
 Finally, the trained model is deployed with **FastAPI** for easy use as an API.
 ---
 
-## Features
-- Exploratory Data Analysis (EDA) with word distributions and text length stats.
-- Text preprocessing: cleaning, stopword removal, lemmatization.
-- Feature extraction with **TF=IDF Vectorizer**.
-- Model training with **Naive Bayes and Logistic Regression**.
-- Explainability with **SHAP and model coefficients**.
-- REST API deployment with **FastAPI**.
+## ⚙️ Features
+- ✅ Exploratory Data Analysis (EDA) with word distributions and text length stats.
+- ✅ Text preprocessing: cleaning, stopword removal, lemmatization.
+- ✅ Feature extraction with **TF=IDF Vectorizer**.
+- ✅ Model training with **Naive Bayes and Logistic Regression**.
+- ✅ Explainability with **SHAP and model coefficients**.
+- ✅ REST API deployment with **FastAPI**.
 
 ---
 
-## Dataset
+## 📊 Dataset
 The dataset used (from https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification)
 contains lebeled news articles:
 - 1 == Real News
@@ -26,7 +26,7 @@ contains lebeled news articles:
 
 ---
 
-## Tech Stack
+## 🧪 Tech Stack
 - Python 3
 - FastAPI (API framework)
 - Uvicorn (ASGI server)
@@ -37,7 +37,7 @@ contains lebeled news articles:
 - SHAP (model explainability)
 
 ---
-## Results
+## 📈 Results
 - **Logistic Regression** achieved better performance on text data than Logistic
 Regression.
 - F1 scores and accuracy were evaluated with **cross-validation**.
@@ -46,7 +46,7 @@ Regression.
 ---
 
 
-## How to Run
+## 🚀 How to Run Locally
 1. Clone this repository:
    '''bash
    git clone https://github.com/illostephanie4/Fake_news_detection.git
@@ -68,7 +68,7 @@ and get predictions
 
 ---
 
-## Next Steps
+## 🔮Next Steps
 - Expand dataset with more sources.
 - Try deep learning models (e.g., LSTM, BERT)
 - Deploy on cloud (Heroku, AWS, or Render)
@@ -76,10 +76,10 @@ and get predictions
 
 ---
 
-## License
+## 🔰 License
 This project is licensed under the MIT License.
 
 ---
 
-## Author
+## 👩‍💻 Author
 **Stephanie** - Data Science Enthusiast.
